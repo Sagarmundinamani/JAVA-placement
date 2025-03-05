@@ -2,7 +2,7 @@ import java.util.*;
 
 public class CountSundays {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in); 
 
         // Input: Start day and number of days in the month
         System.out.println("Enter the starting day of the month (Monday = 0, Sunday = 6):");
