@@ -20,7 +20,7 @@ import java.util.*;
                     maxRadiance=gem;
                     count++;
                 }
-
+//this
             }
             return count;
         }
