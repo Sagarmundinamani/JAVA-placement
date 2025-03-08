@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class MostRepeatedLettersWord {
+public class MoStRepetedword{
     
     public static String findWordWithMostRepeatedLetters(String paragraph) {
         String[] words = paragraph.split("\\s+"); // Split by whitespace

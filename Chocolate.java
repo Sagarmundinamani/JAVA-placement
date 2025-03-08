@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class ChocolateFactory {
+public class Chocolate {
     public static void moveEmptyPacketsToEnd(int[] packets) {
         int nonZeroIndex = 0;
         
