@@ -12,4 +12,4 @@ public class ArrayIncreasingdecrising {
           System.out.print(arr[i] + " ");
         }
     }
-    }
+}
