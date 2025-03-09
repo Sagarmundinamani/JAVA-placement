@@ -9,7 +9,7 @@ public class Smalle {
         
         int arr[] = new int[n];
         for (int i = 0; i < n; i++) {
-            arr[i] = sc.nextInt(); // Fix: Read values into the array
+            arr[i] = sc.nextInt(); // Fix: Read values into the array   
         }
         
         // Find the smallest element
