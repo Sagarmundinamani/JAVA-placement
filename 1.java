@@ -3,7 +3,7 @@ public class ClimbWell {
         int wellHeight = 50;  // Total height of the well
         int climbPerDay = 4;  // Climb during the day
         int slidePerNight = 3;  // Slide during the night
-        int currentHeight = 0;
+        int currentHeight = 0; 
         int days = 0;
    
         while (true) {
