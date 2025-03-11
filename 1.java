@@ -6,7 +6,7 @@ public class ClimbWell {
         int currentHeight = 0; 
         int days = 0;
      
-        while (true) {
+        while (true) { 
             days++;  // Start the day
             currentHeight += climbPerDay;  // Climb up
             
